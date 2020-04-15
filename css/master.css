@@ -1,4 +1,20 @@
-p {
-  text-align: center;
+/* ex 7 pag 66*/
+
+.container {
   color: red;
+  border: 1px solid blue;
+}
+.inherite {
+  color: inherit;
+  border: inherit;
+}
+
+.initial{
+  color: initial;
+  border: initial;
+}
+
+.unset{
+  color: unset;
+  border: unset;
 }
