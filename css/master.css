@@ -72,3 +72,7 @@ section h3.section-subheading{
   text-transform: none;
   font-family: 'Droid Serif', 'Helvetica Neue', Helvetica, sans-serif;
 }
+
+.topic-heading{
+  margin: 15px 0;
+}
